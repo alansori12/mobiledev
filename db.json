@@ -1,3 +1,5 @@
+{
+  "people":
 [{
   "id": 1,
   "name": "Tucky Arch",
@@ -148,104 +150,5 @@
   "name": "Royall Salter",
   "email": "rsaltert@canalblog.com",
   "gender": "Male"
-}, {
-  "id": 31,
-  "name": "Correy Cleator",
-  "email": "ccleatoru@army.mil",
-  "gender": "Female"
-}, {
-  "id": 32,
-  "name": "Lauree Lightowler",
-  "email": "llightowlerv@mozilla.com",
-  "gender": "Female"
-}, {
-  "id": 33,
-  "name": "Jasmina Cleland",
-  "email": "jclelandw@dot.gov",
-  "gender": "Female"
-}, {
-  "id": 34,
-  "name": "Ricoriki MacKill",
-  "email": "rmackillx@state.tx.us",
-  "gender": "Male"
-}, {
-  "id": 35,
-  "name": "Vaughan Pocklington",
-  "email": "vpocklingtony@photobucket.com",
-  "gender": "Male"
-}, {
-  "id": 36,
-  "name": "Willette Stanyan",
-  "email": "wstanyanz@stumbleupon.com",
-  "gender": "Female"
-}, {
-  "id": 37,
-  "name": "Margarete Kempson",
-  "email": "mkempson10@biglobe.ne.jp",
-  "gender": "Female"
-}, {
-  "id": 38,
-  "name": "Hanan Lettley",
-  "email": "hlettley11@opera.com",
-  "gender": "Male"
-}, {
-  "id": 39,
-  "name": "Antonin Sobey",
-  "email": "asobey12@cocolog-nifty.com",
-  "gender": "Male"
-}, {
-  "id": 40,
-  "name": "Emerson Rimmer",
-  "email": "erimmer13@ft.com",
-  "gender": "Male"
-}, {
-  "id": 41,
-  "name": "Darla Canete",
-  "email": "dcanete14@alibaba.com",
-  "gender": "Female"
-}, {
-  "id": 42,
-  "name": "Janetta De'Ath",
-  "email": "jdeath15@answers.com",
-  "gender": "Female"
-}, {
-  "id": 43,
-  "name": "Aidan Leather",
-  "email": "aleather16@freewebs.com",
-  "gender": "Female"
-}, {
-  "id": 44,
-  "name": "Javier Donizeau",
-  "email": "jdonizeau17@devhub.com",
-  "gender": "Male"
-}, {
-  "id": 45,
-  "name": "Zaria Clashe",
-  "email": "zclashe18@globo.com",
-  "gender": "Female"
-}, {
-  "id": 46,
-  "name": "Christalle Torricina",
-  "email": "ctorricina19@4shared.com",
-  "gender": "Female"
-}, {
-  "id": 47,
-  "name": "Trev Phipard-Shears",
-  "email": "tphipardshears1a@plala.or.jp",
-  "gender": "Male"
-}, {
-  "id": 48,
-  "name": "Fonsie Hannigane",
-  "email": "fhannigane1b@eepurl.com",
-  "gender": "Male"
-}, {
-  "id": 49,
-  "name": "Leena Flury",
-  "email": "lflury1c@shinystat.com",
-  "gender": "Female"
-}, {
-  "id": 50,
-  "name": "Dion McDaid",
-  "email": "dmcdaid1d@paginegialle.it",
-  "gender": "Male"
 }]
+}
